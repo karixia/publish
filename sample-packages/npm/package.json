@@ -1,3 +1,7 @@
 {
-  "your": "json config here"
+  "name": "@octocat/my-package",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/octocat/my-other-repo.git"
+  }
 }
